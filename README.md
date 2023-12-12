@@ -25,3 +25,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+유튜브 개린이르나라 채널보며 만든 프로젝트.
+https://youtu.be/ZIiTjMiZzQo?si=mC8CWXLL3N8kNu4X
